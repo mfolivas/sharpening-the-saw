@@ -37,6 +37,10 @@
             <version>0.16.0.RELEASE</version>
         </dependency>
         <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-actuator</artifactId>
+        </dependency>
+        <dependency>
             <groupId>org.spockframework</groupId>
             <artifactId>spock-maven</artifactId>
             <version>0.7-groovy-2.0</version>
